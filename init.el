@@ -130,3 +130,9 @@
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
+
+;; My customizations
+
+(load "beautify-json.el")
+(load "toggle-fullscreen.el")
+(load "uk-keyboard.el")
